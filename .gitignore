@@ -1,0 +1,19 @@
+### Project files ###
+node_modules/
+gulp-start-project/
+package-lock.json
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.log
+*.sublime-*
+*.rar
+*.zip
+.idea/
+ex_files
+Thumbs.db
+
